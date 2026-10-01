@@ -1,6 +1,7 @@
 # iGaming Player Analysis
 
-A small SQL portfolio project exploring player activity, first deposits and gaming revenue. The first version covers July–September 2026. Power BI is the next step and is not included yet.
+A small SQL and Power BI portfolio project exploring player activity,
+first deposits and gaming revenue using synthetic data for July–September 2026. 
 
 All data is synthetic, generated for practice. It contains no employer or customer information and does not represent industry benchmarks.
 
